@@ -5,3 +5,11 @@ body {
     font-size: 1.3rem;
     padding-top: 5rem;
 }
+
+button {
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(19, 3, 88);
+    color: #fff;
+    cursor: pointer;
+}
